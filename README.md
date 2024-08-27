@@ -1,6 +1,6 @@
 # Mopanie Alumni Portal
 
-Welcome to the Monpanie Alumni Network/Portal – an open-source project aimed at fostering connections among alumni from Mopanie. This platform enables alumni to stay connected, share experiences, and support one another in their professional and personal growth.
+Welcome to the Monpanie Alumni Portal – an open-source project aimed at fostering connections among alumni from Mopanie. This platform enables alumni to stay connected, share experiences, and support one another in their professional and personal growth.
 
 ## Features
 
